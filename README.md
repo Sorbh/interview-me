@@ -6,8 +6,7 @@
 
 > Claude Code skills are reusable, prompt-based tools that extend [Claude Code's](https://docs.anthropic.com/en/docs/claude-code) CLI capabilities.
 
-<!-- ![demo](assets/demo.gif) -->
-<!-- TODO: Replace with a speed-run GIF of a full interview session -->
+![interview-me in action](assets/interview-me-preview.gif)
 
 ## Why This Exists
 
